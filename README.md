@@ -14,6 +14,7 @@ There are 3 steps:
 
 3. Installing railway-cli
 > - Start Ubuntu session by using `./start-ubuntu.sh`
+> - Install wget if you haven't `sudo apt install wget`, if you did install wget already, follow the steps below already
 > - Paste this in the terminal `wget https://raw.githubusercontent.com/JotaroKujo0525/Termux-railway-cli/main/railway.sh && bash railway.sh`
 
 And that will install the packages needed. *Voila!* Your railway cli is now installed.
