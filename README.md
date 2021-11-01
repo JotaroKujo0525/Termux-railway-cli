@@ -13,3 +13,9 @@ There are 3 steps:
 > Open andronix then choose the Ubuntu part, don't use the `Android modded OS`, after that follow the steps on how to make one. Please choose the termux option when installing it.
 
 3. Installing railway-cli
+> - Start Ubuntu session by using `./start-ubuntu.sh`
+> - Paste this in the terminal `wget https://raw.githubusercontent.com/JotaroKujo0525/Termux-railway-cli/main/railway.sh && bash railway.sh`
+
+And that will install the packages needed. *Voila!* Your railway cli is now installed.
+
+Got issues? Contact me on my discord account (Jotaro Kujo#0525) 
