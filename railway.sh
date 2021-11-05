@@ -3,10 +3,19 @@ RED='\033[0;31m'
 NC='\033[0m' # No Color
 echo
 echo
-echo -e "This will install ${RED}Railway cli ${NC}
-in your computer. Sit back and relax while the scr
-ipt do the installing :)"
 echo
+echo -e "Also please note that ${RED}you need to b
+e rooted ${NC}to use this method. Refer to the ${R
+ED}README.md file of the repository for a guide"
+echo
+echo -e "This will install ${RED}Railway Cli ${NC}
+in your cellphone. Sit back and relax while the sc
+ript do the installing :)"
+echo
+echo -e "Having issues? Try contacting me on my di
+scord account ${RED}(Jotaro Kujo#0525) ${NC}or ${R
+ED}join my support server here! ${NC} https://disc
+ord.gg/cgjW7Xr2ns"
 echo
 
 apt install wget -y
