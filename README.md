@@ -18,4 +18,4 @@ There are 3 steps:
 
 And that will install the packages needed. *Voila!* Your railway cli is now installed.
 
-Got issues? Contact me on my discord account (Jotaro Kujo#0525) 
+Got issues? Contact me on my discord account (Jotaro Kujo#0525) or join my [support server](https://discord.gg/cgjW7Xr2ns) 
