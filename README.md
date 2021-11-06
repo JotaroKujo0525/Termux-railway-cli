@@ -1,5 +1,7 @@
 # Termux-railway-cli
 How to install railway cli on termux 
+**USE THIS IN YOUR OWN RISK**
+You don't really need to worry if you won't mess with the file system 
 
 Links:
 - [Termux](https://f-droid.org/en/packages/com.termux/)
